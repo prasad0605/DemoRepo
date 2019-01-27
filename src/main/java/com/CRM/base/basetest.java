@@ -51,11 +51,11 @@ public class basetest {
 			driver = new ChromeDriver();
 		}
 		if(properties.getProperty("browser").equalsIgnoreCase("firefox")){
-			System.setProperty("webdriver.gecko.driver", "C:\\Users\\Prasad\\selenium_projects\\chromedriver_win32\\geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", "C:\\Users\\Prasad\\selenium_projects\\geckodriver-v0.23.0-win64\\geckodriver.exe");
 			driver=new FirefoxDriver();
 		}
 		if(properties.getProperty("browser").equalsIgnoreCase("IE")) {
-			System.setProperty("webdriver.ie.driver", "C:\\Users\\Prasad\\selenium_projects\\chromedriver_win32\\MicrosoftWebDriver.exe");
+			System.setProperty("webdriver.ie.driver", "C:\\Users\\Prasad\\selenium_projects\\MicrosoftWebDriver.exe");
 			driver=new InternetExplorerDriver();
 		}
 		
