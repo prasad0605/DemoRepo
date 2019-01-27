@@ -29,7 +29,7 @@ public class basetest {
 	public basetest(){
 		FileInputStream fis;
 		try {
-			fis = new FileInputStream("E:\\selenium_projects\\FreeCRMTest\\src\\main\\java\\com\\CRM\\config\\config.properties");
+			fis = new FileInputStream("C:\\Users\\Prasad\\selenium_projects\\FreeCRMTest\\src\\main\\java\\com\\CRM\\config\\config.properties");
 			properties=new Properties();
 			properties.load(fis);
 		} catch (FileNotFoundException e) {
