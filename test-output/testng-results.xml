@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47636" started-at="2019-01-26T16:10:42Z" finished-at="2019-01-26T16:11:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47636" started-at="2019-01-26T16:10:42Z" finished-at="2019-01-26T16:11:30Z">
+      <class name="com.CRM.testcases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="setup" is-config="true" duration-ms="10270" started-at="2019-01-26T16:10:42Z" finished-at="2019-01-26T16:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CRMlogin()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="CRMlogin" duration-ms="11372" started-at="2019-01-26T16:10:53Z" finished-at="2019-01-26T16:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMlogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="teardown" is-config="true" duration-ms="1573" started-at="2019-01-26T16:11:04Z" finished-at="2019-01-26T16:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="setup" is-config="true" duration-ms="10111" started-at="2019-01-26T16:11:06Z" finished-at="2019-01-26T16:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CRMlogoTest()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="CRMlogoTest" duration-ms="111" started-at="2019-01-26T16:11:16Z" finished-at="2019-01-26T16:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CRMlogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="teardown" is-config="true" duration-ms="1881" started-at="2019-01-26T16:11:16Z" finished-at="2019-01-26T16:11:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="setup" is-config="true" duration-ms="10551" started-at="2019-01-26T16:11:18Z" finished-at="2019-01-26T16:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pagetitleTest()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="pagetitleTest" duration-ms="5" started-at="2019-01-26T16:11:28Z" finished-at="2019-01-26T16:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.CRM.testcases.LoginTest@754ba872]" name="teardown" is-config="true" duration-ms="1720" started-at="2019-01-26T16:11:28Z" finished-at="2019-01-26T16:11:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.CRM.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
